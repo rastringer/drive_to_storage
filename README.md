@@ -1,5 +1,7 @@
 # Drive to Storage
 
+![Drive to Storage logos](drive_to_storage.png "Drive to Storage")
+
 A simple CLI to copy Google Drive files to Google Cloud Storage. 
 Supported file types:
 * Google Docs / Docx
