@@ -11,7 +11,8 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
-!.goog
+goog/
+goog/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
