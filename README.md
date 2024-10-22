@@ -22,9 +22,14 @@ gcloud auth application-default login --scopes=https://www.googleapis.com/auth/d
 
 ## Usage
 
-`git clone` this repo
-Enter the directory `cd drive_to_storage`
-Install packages `pip install -r requirements.txt`
+Clone the repo"
+`https://github.com/rastringer/drive_to_storage.git`
+
+Enter the directory 
+`cd drive_to_storage`
+
+Install packages 
+`pip install -r requirements.txt`
 
 Run:
 `python3 main.py "<your drive folder>", "<your storage bucket>"`
